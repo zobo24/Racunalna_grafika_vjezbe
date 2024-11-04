@@ -18,7 +18,7 @@ int main()
   
     Model model("../res/models/rectangle.obj");
     Shader shader("../res/shaders/vShader.glsl", "../res/shaders/fShader.glsl");
-    Texture tex("../res/textures/container.jpg");
+    Texture tex("../res/textures/yellow.jpg");
 
     Renderer render;
 
